@@ -152,6 +152,8 @@ activemq-data/
 # Environments
 .env
 .envrc
+session.json
+.session-*.tmp
 .venv
 env/
 venv/

@@ -1,0 +1,12 @@
+{
+	"mcpServers": {
+		"tidal-playlists": {
+			"type": "stdio",
+			"command": ".venv/bin/tidal-playlist-mcp",
+			"args": [],
+			"tools": [
+				"*"
+			]
+		}
+	}
+}
